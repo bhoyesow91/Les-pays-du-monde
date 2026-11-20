@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "dist/pays-du-monde/browser",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
